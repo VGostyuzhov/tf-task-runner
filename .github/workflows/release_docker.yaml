@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: VGostyuzhov/tf-task-runner:latest
+          tags: ghcr.io/vgostyuzhov/tf-task-runner:latest
